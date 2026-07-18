@@ -26,48 +26,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
 </div>
 
----
 
-### 🚀 About Me
-I'm a passionate **Full-Stack Developer** currently studying at **FPT University, Vietnam**. I love turning complex problems into elegant, intuitive, and scalable solutions. When I'm not coding, I'm exploring new technologies, working on AI integrations, or building mobile applications.
-
-* 💡 **Focus:** Clean Architecture, Real-Time Systems (WebSocket), AI Integration (Gemini)
-* 🎓 **Education:** FPT University | Software Engineering
-* 💬 **Ask me about:** Java, Spring Boot, React Native, Monorepos
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  
-  **Languages** <br/>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"></code>
-  
-  <br/><br/> **Frontend & Mobile** <br/>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React / React Native" title="React / React Native"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"></code>
-  
-  <br/><br/> **Backend, Database & DevOps** <br/>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"></code>
-
-</div>
-
----
-
-### 🔥 Featured Projects
-
-| 📱 **DICO Scan** | 🍽️ **Order Project** | 📦 **Logistics Platform** |
-| :--- | :--- | :--- |
-| **Java / React Native / Gemini AI**<br/><br/>Barcode scanning app with AI allergen detection, powered by OpenFoodFacts. | **Spring Boot / STOMP / PostgreSQL**<br/><br/>Enterprise-grade real-time order tracking with JWT RBAC for 20+ tables. | **Java / React**<br/><br/>End-to-end management with real-time shipment and order tracking. |
 
 ---
 
