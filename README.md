@@ -15,12 +15,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Animated Coding Developer">
 </div>
 
+<br/>
 
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -41,7 +43,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Masterltb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Code+is+my+canvas...;Coffee+is+my+fuel...;Debugging+is+my+cardio...;Transforming+ideas+into+reality!" alt="Fun Quotes" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
